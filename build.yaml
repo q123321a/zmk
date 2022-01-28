@@ -14,4 +14,4 @@
 ---
 include:
   - board: bluemicro840_v1
-    shield: m60
+    shield: 66key
