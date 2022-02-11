@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: bluemicro840_v1
+  - board: 66key
     shield:66key
