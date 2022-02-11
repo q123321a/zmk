@@ -14,4 +14,4 @@
 ---
 include:
   - board: 66key
-    shield:66key
+    shield: 66key
