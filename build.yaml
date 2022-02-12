@@ -14,4 +14,4 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: 66key
+    shield: key66
