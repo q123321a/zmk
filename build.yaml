@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: bluemicro840_v1
+  - board: nrf52840_m2
     shield: 66key
