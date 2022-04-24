@@ -39,6 +39,7 @@ behaviors {
                         >;
                 };
 
+
                 sym_layer {
                         bindings = <
     &trans &kp KP_NUM &trans &trans
