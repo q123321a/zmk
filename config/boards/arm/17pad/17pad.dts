@@ -9,7 +9,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-	model = "_17BLE";
+	model = "_33BLE";
 	compatible = "17pad";
 
   chosen {
