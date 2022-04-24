@@ -4,7 +4,7 @@
 if BOARD_17pad
 
 config ZMK_KEYBOARD_NAME
-    default "_17BLE"
+    default "_33BLE"
 
 config BOARD
 	default "17pad"
